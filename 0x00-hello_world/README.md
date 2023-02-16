@@ -7,3 +7,4 @@ script 4 - puts file
 script 5 - added
 script 6 added
 script 7 -  task completed
+script 8 - task completed
