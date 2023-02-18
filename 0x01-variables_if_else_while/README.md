@@ -7,4 +7,4 @@ script 5 - base 10 generator
 script 6 - putcharnumber generator
 script 7 - reverse alphabet generator
 script 8 - base16 generator
-
+script 9 - number generator
