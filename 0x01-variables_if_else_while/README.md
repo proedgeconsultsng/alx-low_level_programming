@@ -9,3 +9,5 @@ script 7 - reverse alphabet generator
 script 8 - base16 generator
 script 9 - number generator
 scrip 10 - number combo genearotr
+script 11 - 3digit number combo
+
