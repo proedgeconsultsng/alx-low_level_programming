@@ -38,12 +38,13 @@ char *_strcpy(char *dest, char *src)
 	return (dest);
 }
 
-/* another method using pointer notation
+/*
+ * another method using pointer notation
 char *_strcpy(char *dest, char *src)
 {
-        while (*src)
+	while (*src)
 	{
- 	   *dest = *src;
+	 *dest = *src;
 	   src++;
 	   dest++;
 	}
