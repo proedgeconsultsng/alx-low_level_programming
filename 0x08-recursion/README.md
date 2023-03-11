@@ -1,4 +1,5 @@
 list of my tasks
 task 0 - completed
 task 1 - completed
+task 2 - completed
 
